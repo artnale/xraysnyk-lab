@@ -12,3 +12,10 @@ patch:
   'npm:request:20160119':
     - tap > codecov.io > request:
         patched: '2017-05-24T23:15:02.354Z'
+  'npm:debug:20170905':
+    - method-override > debug:
+        patched: '2017-09-27T02:30:08.838Z'
+    - morgan > debug:
+        patched: '2017-09-27T02:30:08.838Z'
+    - mongoose > mquery > debug:
+        patched: '2017-09-27T02:30:08.838Z'
